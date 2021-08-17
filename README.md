@@ -13,10 +13,10 @@
 </p>
 
 ## Sobre
-Repositório criado para o desenvolvimento de um desafio de Front-end, onde foi proposto a criação de uma aplicação simples utilizando React para exibir o valor de ações através de chamadas de API, utilização do React para construir o projeto, telas e componentes e Redux para controlar o estado da sua aplicação.
+Repositório criado para o desenvolvimento de um desafio de Front-end, onde foi proposto a criação de uma aplicação simples utilizando React para exibir o valor de ações através de chamadas de API.
 
 ## Desafio
-Crie uma tela com um input de texto que receberá um símbolo de ação listada na NASDAQ (ex: aapl para Apple, fb para Facebook, twtr para Twitter), utilizando a API gratuita do [IEX](https://iexcloud.io/docs/api/) para obter os dados necessários.
+Crie uma tela com um input de texto que receberá um símbolo de ação listada na NASDAQ (ex: aapl para Apple, fb para Facebook, twtr para Twitter), utilizando a API gratuita do [IEX](https://iexcloud.io/docs/api/) para obter os dados necessários, utilizando o React para construir o projeto, telas e componentes e Redux para controlar o estado da sua aplicação
 
 ### Itens proprostos:
 - **Preço das ações**: As informações de ações para cada símbolo são encontradas [aqui](https://iexcloud.io/docs/api/#quote). Estamos interessados principalmente no `latestPrice`.
