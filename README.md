@@ -9,8 +9,11 @@
   <a href="#Desafio">Desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Desafios-extras">Desafios extras</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Resultado">Resultado</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+
 
 ## Sobre
 Repositório criado para o desenvolvimento de um desafio de Front-end, onde foi proposto a criação de uma aplicação simples utilizando React para exibir o valor de ações através de chamadas de API.
@@ -39,6 +42,24 @@ Crie uma tela com um input de texto que receberá um símbolo de ação listada 
 
 ## Layout
 Design disponibilizado para o desafio front-end no [Figma](https://www.figma.com/file/JWyV7WPofeyQX8oKbn5jdI/IMA?node-id=0%3A1)
+
+## Tecnologias
+
+**Front-End:**
+- [Next.js](https://reactjs.org);
+- [ReactJS](https://nextjs.org/);
+- [TypeScript](https://www.typescriptlang.org/);
+- [Styled Components](https://styled-components.com/)
+- [Polished](https://github.com/styled-components/polished)
+- [Axios](https://github.com/axios/axios)
+- [IEX](https://iexcloud.io/docs/api/)
+
+**Padronização de código:**
+- [Commitlint](https://github.com/conventional-changelog/commitlint)
+- [Commitizen](https://github.com/commitizen/cz-cli)
+- [Eslint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [EditorConfig](https://editorconfig.org/)
 
 ## Resultado
 Para ver o **resultado**, clique aqui: [IMA - Dashboard](https://imanextjs.netlify.app/)
